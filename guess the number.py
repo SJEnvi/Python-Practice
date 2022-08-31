@@ -18,7 +18,7 @@ else:
     print('There is no such difficulty level... Sorry!')
     quit()
 
-secret_number = random.randint(1,101)
+secret_number = random.randint(1,100)
 
 users_guess = 0
 
